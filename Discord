@@ -1,0 +1,6 @@
+var discord = require('https://discordapp.com/api/webhooks/442250499618635796/upf3FKNefPHDB2MZwnJcWm-xU20fTV5hhYFu8lGQZCjUsyxmIAn7uqiXtztEizJ41bYR');
+discord.hookId = '442250499618635796';
+discord.hookToken = 'upf3FKNefPHDB2MZwnJcWm-xU20fTV5hhYFu8lGQZCjUsyxmIAn7uqiXtztEizJ41bYR';
+discord.userName = 'Super Noot';
+discord.avatarUrl = 'https://cdn.discordapp.com/attachments/373446465260879903/424932903466827777/c335bcde35c6e682598955027c37048e.jpg';
+discord.sendMessage('HURRRRRRRRRRRRRR');
